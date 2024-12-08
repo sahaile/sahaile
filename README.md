@@ -1,22 +1,12 @@
-<h1 align="center"> Hi 👋 I'm Simon</h1>
+<h1 align="center"> Hi <img src="https://github.com/jaza-k/jaza-k/blob/main/wave.gif" width="30" height="30"/> I'm Simon</h1>
 <p align="center">
   <b>A Software Developer at the University of Alberta</b>
 </p>
 
-<!--
-**sahaile/sahaile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on an **an iOS app using Swift, Node.js, and PostgreSQL to help users discover nearby businesses utilizing Google APIs.**
+- 🌱 I’m currently learning **Swift, PostgreSQL, and NodeJS**
+- 📫 How to reach me **hailesimonn@gmail.com** 
+  
 ## 📱 Connect with Me:
 <p align="center">
   <a href="https://www.linkedin.com/in/simonhaile/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
