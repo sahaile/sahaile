@@ -3,8 +3,8 @@
   <b>A Software Developer at the University of Alberta</b>
 </p>
 
-- 🔭 I’m currently working on an **an iOS app using Swift, Node.js, and AWS to help users discover nearby businesses utilizing Google APIs.**
-- 🌱 I’m currently learning **Swift, PostgreSQL, and NodeJS**
+- 🔭 I’m currently working on an **an iOS app using Swift, and AWS to help users discover nearby businesses utilizing Google APIs.**
+- 🌱 I’m currently learning **Swift, and AWS.
 - 📫 How to reach me **hailesimonn@gmail.com** 
   
 ## 📱 Connect with Me:
