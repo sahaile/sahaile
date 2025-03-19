@@ -3,7 +3,7 @@
   <b>A Software Developer at the University of Alberta</b>
 </p>
 
-- 🔭 I’m currently working on an **an iOS app using Swift, and AWS to help users discover nearby businesses utilizing Google APIs.**
+- 🔭 I’m currently working on an **an iOS app using Swift, Firebase, and Flutter to help users discover nearby businesses utilizing Google APIs.**
 - 🌱 I’m currently learning Swift, Firebase, and Flutter.
 - 📫 How to reach me **hailesimonn@gmail.com** 
   
